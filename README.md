@@ -7,12 +7,18 @@ NOTE: This is a older version of my Solana Volume bot, **join our [DISCORD](http
 
 OPEN Source Version:
 
-https://github.com/user-attachments/assets/344b88ae-c887-46fc-af8d-71c4e9ca8f0c
+
+
+https://github.com/user-attachments/assets/3afb9c6b-5233-4a44-9a05-2d87a2b5b094
+
 
 
 Newest Update:
 
-https://github.com/user-attachments/assets/b887f269-44e5-46e1-9805-c2bb54cfdd66
+
+
+
+https://github.com/user-attachments/assets/81780630-4f8e-4b5c-90d0-5854df6605b3
 
 
 
