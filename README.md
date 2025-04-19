@@ -2,7 +2,10 @@
 
 Welcome to the Solana Volume Bot, an open-source script designed to help you achieve desired transaction volumes on the Solana blockchain. This powerful tool is perfect for users looking to manage multiple transactions efficiently and effectively.
 
-NOTE: This is a older version of my Solana Volume bot, **join our [DISCORD](https://discord.gg/solana-scripts) for more info**
+
+**join our [DISCORD](https://discord.gg/solana-scripts) for support & more tools**
+
+
 
 
 OPEN Source Version:
